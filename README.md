@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishnaTech6
 - 👀 I’m interested in Coding, Web Development, Android Development. 
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning Android Development
 - 📫 How to reach me : mail me on krishna060702@gmail.com
 
 <!---
