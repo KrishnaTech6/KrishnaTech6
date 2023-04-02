@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishnaTech6
 - 👀 I’m interested in C++, Kotlin, Python, Java, Android Development, Web Development.
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning C++ & Android Development
 - 📫 How to reach me : mail me at krishna060702@gmail.com
 - I have made many apps like - THE Quiz App, Chatterbox Chatting App, Todolist Maker, Dice, 
 - Tip Calculator App, Mars Photo app, Affirmation App, 
