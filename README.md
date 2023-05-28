@@ -2,8 +2,8 @@
 - 👀 I’m interested in C++, Kotlin, Python, Java, Android Development, Web Development.
 - 🌱 I’m currently learning C++ & Android Development
 - 📫 How to reach me : mail me at krishna060702@gmail.com
-- I have made many apps like - THE Quiz App, Chatterbox Chatting App, Todolist Maker, Dice, 
-- Tip Calculator App, Mars Photo app, Affirmation App, 
+- I have made many apps like - MyShop E-shopping app, The Quiz App, Chatterbox Chatting App, Todolist Maker,
+- Tip Calculator App, Mars Photo app, Affirmation App 
 - Contributed to DoNotDisturb App @sidsharma2002
 - Building Doubtless App 
 
