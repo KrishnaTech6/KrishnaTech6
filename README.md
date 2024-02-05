@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ & Android Development
 - 📫 How to reach me : mail me at krishna060702@gmail.com
 - I have made many apps like - MyShop E-shopping app, The Quiz App, Chatterbox Chatting App, Todolist Maker,
-- Tip Calculator App, Mars Photo app, Affirmation App, CalcEase Calculator without using a single line on onCreate()
+- Tip Calculator App, Mars Photo app, Affirmation App, CalcEase Calculator
 - Contributed to DoNotDisturb App @sidsharma2002
 - Building Doubtless App 
 
