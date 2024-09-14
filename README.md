@@ -4,8 +4,8 @@
 - 📫 How to reach me : mail me at krishna060702@gmail.com
 - I have made many apps like - MyShop E-shopping app, App for Aprajita foundation , App for Vecros Drone Controller, The Quiz App, Chatterbox Chatting App, Todolist Maker,
 - Tip Calculator App, Mars Photo app, Affirmation App, CalcEase Calculator
-- Contributed to DoNotDisturb App @sidsharma2002
-- Building Doubtless App 
+- Contributed to DoNotDisturb App, Doubtless App @sidsharma2002
+- Building Aprajita Foundation App 
 
 ### ✨&nbsp; About Me
 
