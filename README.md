@@ -7,6 +7,10 @@
 - Contributed to DoNotDisturb App @sidsharma2002
 - Building Doubtless App 
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/krishna-rana-4711a423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yo" height="30" width="40" /></a>
+<a href="https://instagram.com/krishna_rana_0607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <!---
 KrishnaTech6/KrishnaTech6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
