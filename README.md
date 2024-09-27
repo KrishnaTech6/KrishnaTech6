@@ -54,10 +54,6 @@
 
 ![Krishna's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaTech6&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-commit-widget.now.sh?username=KrishnaTech6" alt="Total commits by KrishnaTech6">
-</p>
-
 ---
 
 ### Fun Facts About Me 🎸
