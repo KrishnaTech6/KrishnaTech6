@@ -12,7 +12,7 @@
 
 - 🔭 I’ve worked as **Ex-Android Intern at VECROS**.
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** and **Android Development**.
-- 👀 I have a strong interest in **C++, Kotlin, Python, Java, Android & Web Development**.
+- 👀 I have a strong interest in **C++, Kotlin, SQL, Java, Android & Web Development**.
 - 💻 My app portfolio includes: **MyShop E-shopping app**, **Aprajita Foundation App**, **Vecros Drone Controller**, **The Quiz App**, **Chatterbox Chatting App**, and more.
 - 🏆 Contributed to projects like **DoNotDisturb App**, **Doubtless App** (@sidsharma2002), and **Todo**.
 - 🚀 Currently building the **Aprajita Foundation App** for women and child empowerment.
