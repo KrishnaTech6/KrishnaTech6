@@ -10,10 +10,10 @@
 
 ### About Me ✨
 
-- 🔭 I’ve worked as **Ex-Android Intern at VECROS**.
+- 🔭 I’ve worked as **Android Intern at VECROS**.
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** and **Android Development**.
-- 👀 I have a strong interest in **C++, Kotlin, SQL, Java, Android & Web Development**.
-- 💻 My app portfolio includes: **MyShop E-shopping app**, **Aprajita Foundation App**, **Vecros Drone Controller**, **The Quiz App**, **Chatterbox Chatting App**, and more.
+- 👀 I have a strong interest in **C++, Kotlin, SQL, Android Development**.
+- 💻 My app portfolio includes: **MyShop E-shopping app**, **Aprajita Foundation App**, **The Quiz App**, **Chatterbox Chatting App**, and more.
 - 🏆 Contributed to projects like **DoNotDisturb App**, **Doubtless App** (@sidsharma2002), and **Todo**.
 - 🚀 Currently building the **Aprajita Foundation App** for women and child empowerment.
 
@@ -28,32 +28,25 @@
 
 ### Connect with me 🌐
 
+📫 **Email**: krishna060702@gmail.com
+
 <p align="left">
 <a href="https://www.linkedin.com/in/krishna-rana-4711a423b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishna Rana" height="30" width="40" /></a>
 <a href="https://instagram.com/krishna_rana_0607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krishna Rana" height="30" width="40" /></a>
 </p>
-
-📫 **Email**: krishna060702@gmail.com
 
 ---
 
 ### GitHub Stats 📊
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KrishnaTech6&show_icons=true&theme=radical" alt="Krishna's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaTech6&theme=radical" alt="Krishna's GitHub streaks" />
+
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaTech6&langs_count=10&layout=compact&theme=radical" alt="Top languages" />
+
+  <img  align = "center_vertical" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaTech6&theme=radical" alt="Krishna's GitHub streaks" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaTech6&langs_count=10&layout=compact&theme=radical" alt="Top languages" />
-</p>
 
-
----
-
-### GitHub Contributions 🌟
-
-![Krishna's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishnaTech6&theme=radical)
 
 ---
 
