@@ -40,12 +40,12 @@
 ### GitHub Stats 📊
 
 <p align="center">
-
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaTech6&langs_count=10&layout=compact&theme=radical" alt="Top languages" />
-
-  <img  align = "center_vertical" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaTech6&theme=radical" alt="Krishna's GitHub streaks" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaTech6&langs_count=10&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaTech6&theme=radical" alt="Krishna's GitHub streaks" />
+</p>
 
 
 ---
