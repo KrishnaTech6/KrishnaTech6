@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 💼 **Android Development Intern at VECROS** with hands-on experience in mobile application design and development.
+- 💼 **Ex-Android Development Intern at VECROS** with hands-on experience in mobile application design and development.
 - 📘 Currently advancing my skills in **Data Structures & Algorithms** and **Android Development**.
 - 🌐 Proficient in **C++, Kotlin, SQL**, and **Android Development**.
 - 💡 Dedicated to continuous learning and contributing to impactful projects.
